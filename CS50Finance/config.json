@@ -1,0 +1,8 @@
+{
+    "database": {
+        "host": "mysql.jimkj.xyz",
+        "name": "jimkj_xyz_playground",
+        "username": "jkjellan",
+        "password": "Pickspockets3"
+    }
+}

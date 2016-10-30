@@ -1,0 +1,18 @@
+{
+  "name": "jimkj.xyz",
+  "description": "personal website: jimkj.xyz",
+  "main": "",
+  "authors": [
+    "jim kjelland"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
